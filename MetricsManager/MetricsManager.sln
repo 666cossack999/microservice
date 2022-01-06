@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricsManager", "MetricsManager\MetricsManager.csproj", "{B883CF77-466C-47D8-898D-0F0FEA993393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B883CF77-466C-47D8-898D-0F0FEA993393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B883CF77-466C-47D8-898D-0F0FEA993393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B883CF77-466C-47D8-898D-0F0FEA993393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B883CF77-466C-47D8-898D-0F0FEA993393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94F558F-00B0-4CC4-A01E-9FEC0B0DE75B}
+	EndGlobalSection
+EndGlobal
